@@ -1,0 +1,28 @@
+Last login: Sat Nov 13 10:44:27 on ttys000
+You have new mail.
+MissJay@J9-MacBook-Air ~ % cd Dropbox/Black\ CodHer/Unit\ 01/command-line-and-git-assessment-janinebknr
+MissJay@J9-MacBook-Air command-line-and-git-assessment-janinebknr % TERM=dumb script output.txt
+Script started, output file is output.txt
+<                           mkdir folder1                                      
+<                           mkdir folder2                                      
+<                           touch file1.txt                                    
+<                           touch file2.txt                                    
+<                           touch file3.txt                                    
+<                           mv file1.txt folder1                               
+<                           mv file2.txt folder2                               
+MissJay@J9-MacBook-Air command-line-and-git-assessment-janinebknr % cd folder1 
+MissJay@J9-MacBook-Air folder1 % ls                                            
+file1.txt
+MissJay@J9-MacBook-Air folder1 % pwd                                           
+/Users/MissJay/Dropbox/Black CodHer/Unit 01/command-line-and-git-assessment-janinebknr/folder1
+MissJay@J9-MacBook-Air folder1 % cd ..                                         
+<                           rm file3.txt                                       
+MissJay@J9-MacBook-Air command-line-and-git-assessment-janinebknr % exit       
+
+Script done, output file is output.txt
+MissJay@J9-MacBook-Air command-line-and-git-assessment-janinebknr % 
+
+
+
+
+
